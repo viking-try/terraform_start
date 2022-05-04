@@ -1,0 +1,3 @@
+variable "isdev" {
+    type = bool   
+}
